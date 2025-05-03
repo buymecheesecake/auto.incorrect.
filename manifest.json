@@ -1,0 +1,12 @@
+
+{
+  "manifest_version": 3,
+  "name": "Typo-Mancer",
+  "version": "1.0",
+  "description": "Like autocorrect, but drunk and dramatic. Spells, typos, who can tell?",
+  "permissions": ["scripting", "activeTab"],
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"]
+  }]
+}
