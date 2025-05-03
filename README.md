@@ -1,4 +1,4 @@
-# auto.incorrect 🔧🪄
+# auto.incorrect. 🔧🪄
 
 auto.incorrect. turns your reading experience into a beautifully broken guessing game because nobody need accurate spelling anyway. 
 
